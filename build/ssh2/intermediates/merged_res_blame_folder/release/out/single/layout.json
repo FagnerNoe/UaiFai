@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "flutter.ssh2-merged_res-4:/layout/custom_dialog.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "flutter.ssh2-merged_res-4:/layout/notification_action.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/layout/notification_action.xml"
+    },
+    {
+        "merged": "flutter.ssh2-merged_res-4:/layout/notification_action_tombstone.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "flutter.ssh2-merged_res-4:/layout/notification_template_part_time.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "flutter.ssh2-merged_res-4:/layout/notification_template_part_chronometer.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "flutter.ssh2-merged_res-4:/layout/notification_template_icon_group.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/layout/notification_template_icon_group.xml"
+    }
+]

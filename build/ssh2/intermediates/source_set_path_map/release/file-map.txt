@@ -1,0 +1,12 @@
+flutter.ssh2-pngs-0 C:\DevFlutter\uaifai\uaifai\build\ssh2\generated\res\pngs\release
+flutter.ssh2-resValues-1 C:\DevFlutter\uaifai\uaifai\build\ssh2\generated\res\resValues\release
+flutter.ssh2-rs-2 C:\DevFlutter\uaifai\uaifai\build\ssh2\generated\res\rs\release
+flutter.ssh2-mergeReleaseResources-3 C:\DevFlutter\uaifai\uaifai\build\ssh2\intermediates\incremental\release\mergeReleaseResources\merged.dir
+flutter.ssh2-mergeReleaseResources-4 C:\DevFlutter\uaifai\uaifai\build\ssh2\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+flutter.ssh2-merged_res-5 C:\DevFlutter\uaifai\uaifai\build\ssh2\intermediates\merged_res\release
+flutter.ssh2-jetified-window-1.0.0-beta04-6 C:\Users\fagne\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+flutter.ssh2-jetified-window-java-1.0.0-beta04-7 C:\Users\fagne\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+flutter.ssh2-core-1.6.0-8 C:\Users\fagne\.gradle\caches\transforms-3\2579a7de00054bf46a8dbc332552f622\transformed\core-1.6.0\res
+flutter.ssh2-jetified-annotation-experimental-1.1.0-9 C:\Users\fagne\.gradle\caches\transforms-3\3f96ca76068ab400b494bc7d541ee256\transformed\jetified-annotation-experimental-1.1.0\res
+flutter.ssh2-main-10 C:\Users\fagne\AppData\Local\Pub\Cache\hosted\pub.dev\ssh2-2.2.3\android\src\main\res
+flutter.ssh2-release-11 C:\Users\fagne\AppData\Local\Pub\Cache\hosted\pub.dev\ssh2-2.2.3\android\src\release\res

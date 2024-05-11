@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "flutter.ssh2-merged_res-4:/drawable/notification_bg_low.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "flutter.ssh2-merged_res-4:/drawable/notification_tile_bg.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "flutter.ssh2-merged_res-4:/drawable/notification_icon_background.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "flutter.ssh2-merged_res-4:/drawable/notification_bg.xml",
+        "source": "flutter.ssh2-core-1.6.0-7:/drawable/notification_bg.xml"
+    }
+]

@@ -1,0 +1,17 @@
+br.com.noahsoftware.test.uaifai.app-main-0 C:\DevFlutter\uaifai\uaifai\android\app\src\main\res
+br.com.noahsoftware.test.uaifai.app-release-1 C:\DevFlutter\uaifai\uaifai\android\app\src\release\res
+br.com.noahsoftware.test.uaifai.app-pngs-2 C:\DevFlutter\uaifai\uaifai\build\app\generated\res\pngs\release
+br.com.noahsoftware.test.uaifai.app-resValues-3 C:\DevFlutter\uaifai\uaifai\build\app\generated\res\resValues\release
+br.com.noahsoftware.test.uaifai.app-rs-4 C:\DevFlutter\uaifai\uaifai\build\app\generated\res\rs\release
+br.com.noahsoftware.test.uaifai.app-mergeReleaseResources-5 C:\DevFlutter\uaifai\uaifai\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+br.com.noahsoftware.test.uaifai.app-mergeReleaseResources-6 C:\DevFlutter\uaifai\uaifai\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+br.com.noahsoftware.test.uaifai.app-merged_res-7 C:\DevFlutter\uaifai\uaifai\build\app\intermediates\merged_res\release
+br.com.noahsoftware.test.uaifai.app-packaged_res-8 C:\DevFlutter\uaifai\uaifai\build\network_info_plus\intermediates\packaged_res\release
+br.com.noahsoftware.test.uaifai.app-packaged_res-9 C:\DevFlutter\uaifai\uaifai\build\shared_preferences_android\intermediates\packaged_res\release
+br.com.noahsoftware.test.uaifai.app-packaged_res-10 C:\DevFlutter\uaifai\uaifai\build\ssh2\intermediates\packaged_res\release
+br.com.noahsoftware.test.uaifai.app-packaged_res-11 C:\DevFlutter\uaifai\uaifai\build\webview_flutter_android\intermediates\packaged_res\release
+br.com.noahsoftware.test.uaifai.app-jetified-window-1.0.0-beta04-12 C:\Users\fagne\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+br.com.noahsoftware.test.uaifai.app-jetified-window-java-1.0.0-beta04-13 C:\Users\fagne\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+br.com.noahsoftware.test.uaifai.app-core-1.6.0-14 C:\Users\fagne\.gradle\caches\transforms-3\2579a7de00054bf46a8dbc332552f622\transformed\core-1.6.0\res
+br.com.noahsoftware.test.uaifai.app-jetified-annotation-experimental-1.1.0-15 C:\Users\fagne\.gradle\caches\transforms-3\3f96ca76068ab400b494bc7d541ee256\transformed\jetified-annotation-experimental-1.1.0\res
+br.com.noahsoftware.test.uaifai.app-webkit-1.7.0-16 C:\Users\fagne\.gradle\caches\transforms-3\e2bc4d834f8f919d5ef35a628a89c036\transformed\webkit-1.7.0\res
